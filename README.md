@@ -29,7 +29,9 @@ In this other we can see the responsive design of the page and the functionality
 ### Features
 
 First we have a user log in and registration, with their corresponding field validations.
+
 Once logged in, we can see a list of bands with a filter by musical genre. When selecting a genre, only those that match the selected genre will remain.
+
 Finally, we can log out, once logged out we will not be able to access the content of the web page.
 
 ### Tecnologies
