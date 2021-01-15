@@ -13,7 +13,7 @@ const Container = () => {
   const toogle = useSelector((store) => store.toogle);
   useEffect(() => {
     dispatch(BANDS(data.bands.map((band) => band)));
-  }, [data]);
+  }, [dispatch]);
   return (
     <Cont>
       <NavBar />

@@ -3,9 +3,7 @@ import { Route, Switch } from "react-router-dom";
 import LogIn from "./components/LogIn";
 import Register from "./components/Register";
 import Container from "./components/Container";
-import Bands from "./components/Container/Bands";
 import Genre from "./components/Container/Genres";
-import Albums from "./components/Container/Albums";
 import { useSelector } from "react-redux";
 
 function App() {

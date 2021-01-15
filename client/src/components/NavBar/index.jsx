@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React from "react";
 import AppBar from "@material-ui/core/AppBar";
 import Toolbar from "@material-ui/core/Toolbar";
 import IconButton from "@material-ui/core/IconButton";
@@ -12,7 +12,6 @@ import "../Container/index.css";
 
 export default function NavBar() {
   const classes = useStyles();
-  const [open, setOpen] = useState({ toogle: false });
   const dispatch = useDispatch();
 
   return (
