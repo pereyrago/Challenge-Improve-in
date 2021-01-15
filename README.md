@@ -24,7 +24,7 @@ In this image we can see the functionality of user registration and log in. To s
 
 In this other we can see the responsive design of the page and the functionality once logged in.
 
-[![Responsive and logged user content](https://i.imgur.com/lYQiDcJ.gif "Responsive and logged user content")](https://i.imgur.com/lYQiDcJ.gif "Responsive and logged user content")
+[![Responsive design and user logged features](https://i.imgur.com/lYQiDcJ.gif "Responsive design and user logged features")](https://i.imgur.com/lYQiDcJ.gif "Responsive design and user logged features")
 
 ### Features
 
