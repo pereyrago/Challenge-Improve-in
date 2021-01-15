@@ -16,15 +16,15 @@ Download the repo and type these commands in command terminal
 
 ### Images
 
-In this image we can see the functionality of user registration and log in. To see in more detail click on the image. As it is only front, once the page is reloaded, the data will be lost.
-
-[![Log in and register feature](https://i.imgur.com/zyfFWqQ.gif "Log in and register feature")](https://i.imgur.com/zyfFWqQ.gif "Log in and register feature")
-
----
-
 In this other we can see the responsive design of the page and the functionality once logged in.
 
 [![Responsive design](https://i.imgur.com/lYQiDcJ.gif "Responsive design")](https://i.imgur.com/lYQiDcJ.gif "Responsive design and user logged features")
+
+---
+
+In this image we can see the functionality of user registration and log in. To see in more detail click on the image. As it is only front, once the page is reloaded, the data will be lost.
+
+[![Log in and register feature](https://i.imgur.com/zyfFWqQ.gif "Log in and register feature")](https://i.imgur.com/zyfFWqQ.gif "Log in and register feature")
 
 ### Features
 
