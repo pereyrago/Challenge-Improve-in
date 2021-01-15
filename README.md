@@ -1,9 +1,11 @@
 # Improve-in Challenge
 
-###Intro
+### Intro
+
 This repository is a React challenge for Improve-in, made by Gabriel Pereyra
 
-###How to Install
+### How to Install
+
 Download the repo and type these commands in command terminal
 
 `cd client`
@@ -12,7 +14,7 @@ Download the repo and type these commands in command terminal
 
 `npm start`
 
-###Images
+### Images
 
 In this image we can see the functionality of user registration and log in. To see in more detail click on the image. As it is only front, once the page is reloaded, the data will be lost.
 
@@ -23,10 +25,13 @@ In this image we can see the functionality of user registration and log in. To s
 In this other we can see the responsive design of the page and the functionality once logged in.
 
 [![Responsive and logged user content](https://i.imgur.com/lYQiDcJ.gif "Responsive and logged user content")](https://i.imgur.com/lYQiDcJ.gif "Responsive and logged user content")
-###Features
+
+### Features
+
 First we have a user log in and registration, with their corresponding field validations.
 Once logged in, we can see a list of bands with a filter by musical genre. When selecting a genre, only those that match the selected genre will remain.
 Finally, we can log out, once logged out we will not be able to access the content of the web page.
 
-###Tecnologies
+### Tecnologies
+
 For this challenge we used React, Redux, React router, styled-components, material-ui
