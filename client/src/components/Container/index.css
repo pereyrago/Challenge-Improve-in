@@ -1,0 +1,53 @@
+.navLink {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  width: 33%;
+}
+
+.bg {
+  position: absolute;
+  justify-content: center;
+  align-items: center;
+  height: 15%;
+  width: 50%;
+  margin: 2%;
+  background-color: black;
+}
+
+.uno {
+  background-color: #edede6;
+  height: 8%;
+  width: 100%;
+  transition: 0.5s;
+  color: #403f3c;
+}
+.otro {
+  width: 100%;
+  height: 8%;
+  background-color: #403f3c;
+  transition: 0.5s;
+  border-bottom: 1px solid black;
+  color: white;
+  border-radius: 5px;
+}
+.close {
+  left: -100%;
+}
+.open {
+  left: 0;
+}
+.menuBtn {
+  display: flex;
+}
+@media only screen and (min-width: 600px) {
+  .navLink {
+    height: 33%;
+    width: 100%;
+  }
+  .menuBtn {
+    display: none;
+  }
+}
